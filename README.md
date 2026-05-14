@@ -1,2 +1,1 @@
-# GitRep
-test
+Hello from GitHub Actions!
